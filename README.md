@@ -4,7 +4,7 @@ I am a 3rd Year student from Brookfield, Wisconsin who is very passionate about,
 **Hello_World** By:Danny Cleary
 ## Description
 *1st attempt of using github and creating a repository for my BAIS professional preparation class*
-### How to Run Program H3
+### How to Run Program
 1. Write Code
 2. Review Code
 3. Run Code
